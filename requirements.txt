@@ -1,0 +1,13 @@
+scikit-network>=0.33.5
+crewai>=0.30.0
+crewai-tools>=0.1.0
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-community>=0.3.0
+ragas==0.4.3
+chromadb>=1.4.0
+sentence-transformers>=3.0.0
+mcp>=1.0.0
+python-dotenv>=1.0.0
+pypdf>=4.0.0
+datasets>=2.16.0
