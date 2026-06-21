@@ -1,0 +1,8 @@
+Enterprise Operational Updates (Filesystem MCP Source)
+
+- Security Policy Update: All employees must report suspected security incidents to the SOC within 30 minutes.
+- Support Escalation: Critical ticket severity (P1) must be escalated to the incident manager immediately.
+- Service Management: P1 incident bridge should be opened within 10 minutes of ticket creation.
+- HR Notice: Annual leave requests should be submitted at least 5 business days in advance.
+- Compliance Reminder: Customer data exports require manager approval and audit logging.
+- IT Operations: VPN access for contractors expires automatically every 30 days unless renewed.

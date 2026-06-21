@@ -1,9 +1,10 @@
 from crewai import Agent
 
+
 def get_evaluation_agent():
     return Agent(
         role="Evaluation Specialist",
-        goal="Evaluate answer quality using RAGAS metrics",
-        backstory="Expert in AI evaluation",
-        verbose=True
+        goal="Interpret RAGAS metrics and provide actionable quality feedback",
+        backstory="Expert in LLM evaluation, metric interpretation, and quality risk detection",
+        verbose=True,
     )
